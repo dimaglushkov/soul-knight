@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/soul-knight.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
